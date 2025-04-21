@@ -1,6 +1,6 @@
 # 🏥 Hospital Management SQL Project (PostgreSQL)
 
-This project showcases SQL skills using only **subqueries** to solve real-world healthcare-related business problems. The database contains five interconnected tables and simulates a hospital's operations involving patients, doctors, departments, treatments, and bills.
+This project showcases SQL skills to solve real-world healthcare-related business problems. The database contains five interconnected tables and simulates a hospital's operations involving patients, doctors, departments, treatments, and bills.
 
 ---
 
